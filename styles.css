@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+.label {
+  width: 128px;
+  display: inline-block;
+}
+
+#panel {
+  margin-bottom: 16px;
+}
+
+input[type="number"] {
+  width: 46px;
+  margin-right: 16px;
+}
+
+svg {
+  border: 1px solid black;
+}
